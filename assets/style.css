@@ -14,15 +14,11 @@ body {
   color: #f8f9fa;
   border: 2px;
   border-color: #f8f9fa;
-}
-
-.footer {
-  background: #f8f9fa;
-  columns: #777777;
+  margin-top: 7vh;
+  margin-bottom: 7vh;
 }
 
 .page-header {
-  border-bottom: #777777;
   padding-top: 1rem;
   font-family: Georgia, Times, "Times New Roman", serif;
   border-bottom: 3px solid white;
@@ -41,3 +37,8 @@ p {
   margin: 2rem !important;
   background: teal;
 }
+
+.btn {
+  margin-bottom: 1rem;
+}
+
